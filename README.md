@@ -28,3 +28,11 @@ Analyzed sales data using Python to identify trends, top-performing products, an
 
 ## Conclusion
 This project highlights how data analysis can help businesses make informed decisions by identifying performance trends and opportunities for growth.
+
+## Visualizations
+
+### Sales by Category
+![Category](category_sales.png)
+
+### Sales by Region
+![Region](region_sales.png)
